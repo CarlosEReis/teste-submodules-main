@@ -1,0 +1,8 @@
+[submodule "er7_ass-tec-api"]
+	path = er7_ass-tec-api
+	url = https://github.com/CarlosEReis/er7_ass-tec-api.git
+	branch = main
+[submodule "er7_ass-tec-ui"]
+	path = er7_ass-tec-ui
+	url = https://github.com/CarlosEReis/er7_ass-tec-ui.git
+	branch = main
